@@ -6,8 +6,8 @@
 
 | S.No  | Algorithm | S.No. | Algorithm | S.No. | Algorithm |
 |-------|-----------|-------|-----------|-------|-----------|
-|   1   | [BasicGAN](./Algorithms/BasicGAN) |   2   | [ACGAN](./Algorithms/ACGAN) |   3   | [EBGAN](./Algorithms/EBGAN) |
-|   4   | [InfoGAN](./Algorithms/InfoGAN) |   5   | [cGAN](./Algorithms/cGAN) |   6   |           |
+|   1   |           |   2   |           |   3   |           |
+|   4   |           |   5   |           |   6   |           |
 
 ## Available Documentations
 
@@ -24,7 +24,7 @@
 
 | S.No  | Project | S.No  | Project | S.No | Project |
 |-------|---------|-------|---------|------|---------|
-|   1   |         |   2   |         |   3  |         |
+|   1   | [Music Genre Classification Model](./Projects/Music%20Genre%20Classification%20Model) |   2   |         |   3  |         |
 |   4   |         |   5   |         |   6  |         |
 
 
